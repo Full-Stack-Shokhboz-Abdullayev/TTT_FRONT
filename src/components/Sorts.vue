@@ -47,11 +47,11 @@ export default {
           { value: "select", label: "Not Selected" },
 
           {
-            value: "asc",
+            value: "desc",
             label: "Open",
           },
           {
-            value: "desc",
+            value: "asc",
             label: "Done",
           },
         ],
